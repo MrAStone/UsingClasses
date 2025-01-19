@@ -24,5 +24,5 @@ namespace UsingClasses
             return number;
         }
     }
-
-}
+    
+    }
